@@ -486,3 +486,7 @@ span{
     margin: 1rem 0;
     resize: none;
 }
+
+#result {
+    color: black;
+}
